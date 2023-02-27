@@ -7376,7 +7376,7 @@ const helpmenu = ` `
 
  let buttonshelpm = [
     {buttonId: `.owner`, buttonText: {displayText: '✨ Bot Owner ✨'}, type: 1},
-    {buttonId: `.nsfw`, buttonText: {displayText: '🥵nsfw💦'}, type: 1},
+    {buttonId: `.allmenu`, buttonText: {displayText: 'all menu'}, type: 1},
     {buttonId: `.listmenu`, buttonText: {displayText: '🔥 List Menu 🔥'}, type: 1}
     ]
                 let buttonMessage = {
