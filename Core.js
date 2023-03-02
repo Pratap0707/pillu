@@ -1414,13 +1414,7 @@ function pickRandom(list) {
 return list[Math.floor(list.length * Math.random())]
 }
 
-	//auto vn reply
-for (let anju of xeonyaudio){
-				if (budy === anju){
-					result = fs.readFileSync(`./Assets/audio/${anju}.mp3`)
-					A17.sendMessage(m.chat, { audio: result, mimetype: 'audio/mp4', ptt: true }, { quoted: m })     
-					}
-			}
+	//auto vn 
 	
     this.game = this.game ? this.game : {}
             let room = Object.values(this.game).find(room => room.id && room.game && room.state && room.id.startsWith('tictactoe') && [room.game.playerX, room.game.playerO].includes(m.sender) && room.state == 'PLAYING')
