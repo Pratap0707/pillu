@@ -10,7 +10,11 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['917798203711','9180104 31346'] //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.Owner = [
+  ['917798203711', 'shubham', true],
+  ['9280104 31346', 'pratap', true], 
+  [''] 
+] //Number of owners //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.OwnerNumber = ['917798203711']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.ownertag = ['917798203711']
 global.BotName = "𓄂⍣⃝🇬𝚑𝚘𝚜𝚝 ×͜×"
