@@ -10,7 +10,7 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['917798203711','917798203711']
+global.Owner = ['918010431346','917798203711']
  //Number of owners //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.OwnerNumber = ['917798203711']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.ownertag = ['917798203711']
