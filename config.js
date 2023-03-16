@@ -27,11 +27,11 @@ global.sessionName = "session"
 global.prefa = ['.'] 
 
 
-global.location = ['Mh','mh']
+global.location = ['']
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' }
-global.websitex = ['918010431346','917798203711']
+global.websitex = ['']
 global.lolhuman = "KaysaS"
 
 
