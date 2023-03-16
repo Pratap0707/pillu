@@ -3612,7 +3612,7 @@ case 'togif': case 'getgif':{
 
 
  case 'owner': case 'creator': case 'mod': case 'mods':{
-    A17.sendContact(m.chat, global.Owner,global.OwnerNumber, m)
+    A17.sendContact(m.chat, global.Owner,global.OwnerNumber,m)
     }
     break
 
