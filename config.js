@@ -17,7 +17,7 @@ global.ownertag = ['918010431346']
 global.BotName = "𓄂⍣⃝🇬𝚑𝚘𝚜𝚝 ×͜×"
 global.packname = "A17 bot"
 global.author = "By: shubham"
-global.OwnerName = "Shubham","Shubham "
+global.OwnerName = "Pratap","Shubham "
 global.BotSourceCode = "https://github.com/Kai0071/A17"
 global.SupportGroupLink = "https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"
 global.sessionName = "session"
@@ -27,11 +27,11 @@ global.sessionName = "session"
 global.prefa = ['.'] 
 
 
-global.location = "West Bengal, India"
+global.location = "Maharashtra","Maharashtra"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' }
-global.websitex = "https://github.com/Kai0071"
+global.websitex = "https://github.com/"," .."
 global.lolhuman = "KaysaS"
 
 
