@@ -3610,9 +3610,8 @@ case 'togif': case 'getgif':{
  }
  break
 
-
- case 'owner': case 'creator': case 'mod': case 'mods':{
-    A17.sendContact(m.chat, global.Owner,m)
+case 'owner': case 'kai': case 'creator': case 'mod': case 'mods':{
+    A17.sendContact(m.chat, global.Owner, m)
     }
     break
 
