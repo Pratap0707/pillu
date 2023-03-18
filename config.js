@@ -12,12 +12,12 @@ global.antitags = true
 
 global.Owner = ['918010431346','917798203711']
  //Number of owners //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['918010431346']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['918010431346']
+global.OwnerNumber = ['918010431346','9193949 88360']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['918010431346','9193949 88360']
 global.BotName = "𓄂⍣⃝D  e v i l ×͜×"
 global.packname = "A17 bot"
 global.author = "By: shubham"
-global.OwnerName = "Pratap","𓄂⍣⃝D  e v i l ×͜×"
+global.OwnerName = "Pratap","Nixie"
 global.BotSourceCode = "https://github.com/Kai0071/A17"
 global.SupportGroupLink = "https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"
 global.sessionName = "session"
