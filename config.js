@@ -12,8 +12,8 @@ global.antitags = true
 
 global.Owner = ['918010431346','917798203711']
  //Number of owners //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['918010431346','919394988360']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['918010431346','919394988360']
+global.OwnerNumber = ['919394988360','919394988360']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['919394988360','919394988360']
 global.BotName = "𓄂⍣⃝D  e v i l ×͜×"
 global.packname = "A17 bot"
 global.author = "By: shubham"
