@@ -10,14 +10,14 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['919394988360','918010431346']
+global.Owner = ['919823642839','918010431346']
  //Number of owners //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['919394988360','918010431346']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['919394988360','918010431346']
+global.OwnerNumber = ['919823642839','918010431346']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['919823642839','918010431346']
 global.BotName = "𓄂⍣⃝D  e v i l ×͜×"
 global.packname = "A17 bot"
 global.author = "By: Pratap"
-global.OwnerName = "🐹⃢᭄niko🦋⃝⃟🦋","pratap"
+global.OwnerName = "Pratap","Baby"
 global.BotSourceCode = "https://github.com/Kai0071/A17"
 global.SupportGroupLink = "https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"
 global.sessionName = "session"
