@@ -1490,7 +1490,7 @@ return list[Math.floor(list.length * Math.random())]
       reply (`Hello ${pushname}, I am ${BotName}. How can i help you?`);
     } 
 		
-	 if (smallinput=='shubham') {
+	 if (smallinput=='pratap') {
         reply (`*My Boss is lost in another Multiverse, I lost contact with him...*`)
     }
 	
@@ -1502,7 +1502,7 @@ return list[Math.floor(list.length * Math.random())]
     
 	
 	
-	 if (smallinput=='a17') {
+	 if (smallinput=='bot') {
         reply ('Yes I am Alive 🫂')
     }
 	
