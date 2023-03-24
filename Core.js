@@ -1524,7 +1524,7 @@ return list[Math.floor(list.length * Math.random())]
     }
    
    if (smallinput.includes('arigato')|| smallinput.includes('arigatou') || smallinput.includes('intro')) {
-      reply (`baby *${pushname}* 😇. iam bot and my owner is mr Shubham.`);
+      reply (`baby *${pushname}* 😇. iam bot and my owner is mr pratap.`);
     }
     
       if (smallinput.includes('arigato')|| smallinput.includes('arigatou') || smallinput.includes('love you')) {
