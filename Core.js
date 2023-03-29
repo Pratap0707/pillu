@@ -1557,7 +1557,7 @@ return list[Math.floor(list.length * Math.random())]
     }
 
     if (smallinput.includes('sorry')) {
-      reply (`tatti ke haath dhoye nahi jate chale pap dhone`);
+      reply (`No sorry no thanks bcoz we are FRIENDS ☺️`);
     }
 	
 	
