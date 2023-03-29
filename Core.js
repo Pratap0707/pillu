@@ -1543,8 +1543,8 @@ return list[Math.floor(list.length * Math.random())]
       reply (`baby *${pushname}* 😇. has mat pagale pyar ho jayega.`);
     }
     
-      if (smallinput.includes('mavii')|| smallinput.includes('mau') || smallinput.includes('mavi')) {
-      reply (`yaar*${pushname}* o mare owner ki bastie hai`);
+      if (smallinput.includes('aashii')|| smallinput.includes('aashu') || smallinput.includes('aashika')) {
+      reply (`yaar*${pushname}* o mare owner ki bastie hai 🌚`);
     }
 	
 	
@@ -2862,7 +2862,7 @@ if (isBanChat) return reply(mess.bangc)
 ┃*Message : ${args.join(" ") ? args.join(" ") : 'no message'}*\n\n`
 
  for (let mem of participants) {
- teks += `🥀 @${mem.id.split('@')[0]}\n`
+ teks += `🍑 [@${mem.id.split('@')[0]}\n]`
  }
  A17.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
  }
