@@ -7462,7 +7462,7 @@ const A17array= [
         
             A17.sendMessage(from,{video:{url:A17selection},gifPlayback:true,caption:txt},{quoted:m})
 		break
-
+/*
 case 'add':{     			
     if (!m.isGroup) return replay(mess.grouponly)
  if (!isBotAdmins) return replay(mess.botadmin)
@@ -7471,7 +7471,8 @@ case 'add':{
   await A17.groupParticipantsUpdate(m.chat, [users], 'add').then((res) => replay(`User Added Successfully!`)).catch((err) => replay(`Cannot add that user to this group!`))
  }
  break
-		
+
+*/
 case 'weather':
         if (isBan) return reply(mess.banned)
         if (!args[0]) return reply("Enter your location to search weather.")
