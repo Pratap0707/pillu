@@ -4229,21 +4229,37 @@ await fs.unlinkSync(memek)
 break
 
 case 'sgif': case 'sticker': case 's': {
+
     if (isBan) return reply(mess.banned)
+
     if (isBanChat) return reply(mess.bangc)
+
  if (/image/.test(mime)) {
+
  let media = await quoted.download()
+
  let encmedia = await A17.sendImageAsSticker(m.chat, media, m, { packname: global.packname, author: global.author })
+
  await fs.unlinkSync(encmedia)
+
  } else if (/video/.test(mime)) {
+
  if ((quoted.msg || quoted).seconds > 11) return reply('Maximum 10 seconds!')
+
  let media = await quoted.download()
+
  let encmedia = await A17.sendVideoAsSticker(m.chat, media, m, { packname: global.packname, author: global.author })
+
  await fs.unlinkSync(encmedia)
+
  } else {
+
  reply(`Send Image/Video With Caption ${prefix + command}\nVideo Duration 1-9 Seconds`)
+
  }
+
  }
+
  break
 
 case 'wiki':
