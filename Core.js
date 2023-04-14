@@ -234,10 +234,7 @@ const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')
 
 const mongoose = require("mongoose");
 
-   
-	
-	
-	
+   /*	
 	
 // Dm and Groups Autoreply/Bot chat
 
@@ -247,7 +244,7 @@ if (!isCmd ){
     m.reply(txt)
     }    
     
-  
+  */
 
 	
 	
