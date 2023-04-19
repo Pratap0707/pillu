@@ -2859,7 +2859,7 @@ if (isBanChat) return reply(mess.bangc)
 ┃*Message : ${args.join(" ") ? args.join(" ") : 'no message'}*\n\n`
 
  for (let mem of participants) {
- teks += `🤧 [@${mem.id.split('@')[0]}\n`
+ teks += `┃🤧 »@${mem.id.split('@')[0]}\n`
  }
  A17.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
  }
